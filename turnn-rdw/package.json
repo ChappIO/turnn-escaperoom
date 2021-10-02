@@ -2,7 +2,7 @@
   "name": "turnn-rdw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bobvdvalk.github.io/turnn-escaperoom/turnn-rdw",
+  "homepage": "https://bobvdvalk.github.io/turnn-escaperoom/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
