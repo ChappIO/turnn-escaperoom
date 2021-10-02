@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/turnn-escaperoom/turnn-rdw/static/css/main.6a467f3b.chunk.css",
-    "main.js": "/turnn-escaperoom/turnn-rdw/static/js/main.bc7a3b63.chunk.js",
-    "main.js.map": "/turnn-escaperoom/turnn-rdw/static/js/main.bc7a3b63.chunk.js.map",
-    "runtime-main.js": "/turnn-escaperoom/turnn-rdw/static/js/runtime-main.6c20d6da.js",
-    "runtime-main.js.map": "/turnn-escaperoom/turnn-rdw/static/js/runtime-main.6c20d6da.js.map",
-    "static/js/2.21902583.chunk.js": "/turnn-escaperoom/turnn-rdw/static/js/2.21902583.chunk.js",
-    "static/js/2.21902583.chunk.js.map": "/turnn-escaperoom/turnn-rdw/static/js/2.21902583.chunk.js.map",
-    "static/js/3.78b37f5f.chunk.js": "/turnn-escaperoom/turnn-rdw/static/js/3.78b37f5f.chunk.js",
-    "static/js/3.78b37f5f.chunk.js.map": "/turnn-escaperoom/turnn-rdw/static/js/3.78b37f5f.chunk.js.map",
-    "index.html": "/turnn-escaperoom/turnn-rdw/index.html",
-    "static/css/main.6a467f3b.chunk.css.map": "/turnn-escaperoom/turnn-rdw/static/css/main.6a467f3b.chunk.css.map",
-    "static/js/2.21902583.chunk.js.LICENSE.txt": "/turnn-escaperoom/turnn-rdw/static/js/2.21902583.chunk.js.LICENSE.txt",
-    "static/media/toyota.4e506490.jpeg": "/turnn-escaperoom/turnn-rdw/static/media/toyota.4e506490.jpeg"
+    "main.css": "/turnn-escaperoom/static/css/main.6a467f3b.chunk.css",
+    "main.js": "/turnn-escaperoom/static/js/main.bc7a3b63.chunk.js",
+    "main.js.map": "/turnn-escaperoom/static/js/main.bc7a3b63.chunk.js.map",
+    "runtime-main.js": "/turnn-escaperoom/static/js/runtime-main.a614c6fb.js",
+    "runtime-main.js.map": "/turnn-escaperoom/static/js/runtime-main.a614c6fb.js.map",
+    "static/js/2.21902583.chunk.js": "/turnn-escaperoom/static/js/2.21902583.chunk.js",
+    "static/js/2.21902583.chunk.js.map": "/turnn-escaperoom/static/js/2.21902583.chunk.js.map",
+    "static/js/3.78b37f5f.chunk.js": "/turnn-escaperoom/static/js/3.78b37f5f.chunk.js",
+    "static/js/3.78b37f5f.chunk.js.map": "/turnn-escaperoom/static/js/3.78b37f5f.chunk.js.map",
+    "index.html": "/turnn-escaperoom/index.html",
+    "static/css/main.6a467f3b.chunk.css.map": "/turnn-escaperoom/static/css/main.6a467f3b.chunk.css.map",
+    "static/js/2.21902583.chunk.js.LICENSE.txt": "/turnn-escaperoom/static/js/2.21902583.chunk.js.LICENSE.txt",
+    "static/media/toyota.4e506490.jpeg": "/turnn-escaperoom/static/media/toyota.4e506490.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c20d6da.js",
+    "static/js/runtime-main.a614c6fb.js",
     "static/js/2.21902583.chunk.js",
     "static/css/main.6a467f3b.chunk.css",
     "static/js/main.bc7a3b63.chunk.js"
