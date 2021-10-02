@@ -1,0 +1,56 @@
+.RdwForm {
+    display: block;
+    /*margin: 100px;*/
+}
+
+.kenteken {
+    background-color: #FFC700;
+    height: 100px;
+    border-radius: 25px;
+    width: 410px;
+}
+.eulogo {
+    width: 100%;
+    border-radius: 15px 0 0 15px;
+}
+.dutchLogo {
+    position: absolute;
+    background-color: #1a2672;
+    color: #d7d5d5;
+    font-size: 30px;
+    width: 85px;
+    height: 100px;
+    border-radius: 15px 0 0 15px;
+    text-align: center;
+}
+.form {
+    position: fixed;
+    margin-left: 100px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.kentekenForm {
+    height: 75px;
+    width: 280px;
+    background-color: #FFC700;
+    border: 0;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.submitForm, button {
+    margin-top: 15px;
+    font-size: 30px;
+    float: left;
+}
+
+.CarInfo {
+    margin-top: 120px;
+}
+
+.CarInfo, .toyota {
+    height: 250px;
+}
+
